@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Project Shelter
+대학생연합 게임제작동아리 BRIDGE 정규 프로젝트로 진행 중인 Project Shelter입니다.
 <!--
 
 **Here are some ideas to get you started:**
